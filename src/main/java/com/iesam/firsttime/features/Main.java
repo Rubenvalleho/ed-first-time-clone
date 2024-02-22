@@ -10,5 +10,6 @@ public class Main {
         AppConfigPresentation.appOpened();
         WelcomePresentation.showWelcomeMessage();
         VotePresentation.showVoteApp();
+        System.out.print("Proyecto de Chema clonado");
     }
 }
